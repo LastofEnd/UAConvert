@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.uaconvert"
+    namespace = "com.lastofend.uaconvert"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.uaconvert"
+        applicationId = "com.lastofend.uaconvert"
         minSdk = 31
         targetSdk = 36
         versionCode = 1
